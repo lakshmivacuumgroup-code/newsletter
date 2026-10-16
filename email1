@@ -1,0 +1,110 @@
+
+12:14
+
+
+
+Thinking
+10s
+
+
+
+
+
+
+
+
+Your account has insufficient credits
+This run did not execute. Add credits to continue.
+Add credits
+Send feedback
+
++161
+-66
+
+_build_newsletter_copies.py
++95
+# -*- coding: utf-8 -*-
+"""v2 of the two newsletter copies:
+ - inner 600px blocks made fluid below 640px (that is what still clipped on a phone)
+ - H2 treatment now covers every real section heading: size >= 20px, weight >= 800, dark colour, >= 12 chars of text
+   (so hero statements on dark, stats like '2003' and kickers are left alone)."""
+import io, os, re
+DIR = r"C:\Users\HP\PycharmProjects\PythonProject\Email newsletter-html"
+SRC = os.path.join(DIR, "Email.dc.html")
+t = io.open(SRC, encoding="utf-8", errors="ignore").read()
+FLUID = """
+  /* below 640px everything that was fixed at 600px becomes fluid */
+  @media (max-width:640px){
+    .wrap{width:100%!important}
+    .px{padding-left:18px!important;padding-right:18px!important}
+    table[width="600"], td[width="600"], img[width="600"]{width:100%!important;max-width:100%!important;height:auto!important}
+    [style*="width:600px"], [style*="width: 600px"]{width:100%!important;max-width:100%!important}
+    [style*="max-width:600px"]{max-width:100%!important}
+    img{max-width:100%!important;height:auto!important}
+  }
+  @media (max-width:640px){ .h1{font-size:30px!important;letter-spacing:-0.4px!important;line-height:1.05!important} }
+  @media (max-width:400px){ .h1{font-size:26px!important} }
+"""
+RESP_CSS = "<style>\n  body{background:#EAF0F6}\n" + FLUID + "</style>\n"
+FONTFACE = """<style>
+  /* site type system, self-hosted */
+  @font-face{font-family:'LV Inter';src:url('https://www.lakshmivacuum.com/static/vendor/fonts/google/inter-400-normal.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+  @font-face{font-family:'LV Inter';src:url('https://www.lakshmivacuum.com/static/vendor/fonts/google/inter-600-normal.woff2') format('woff2');font-weight:600 800;font-style:normal;font-display:swap}
+  @font-face{font-family:'LV Playfair';src:url('https://www.lakshmivacuum.com/static/vendor/fonts/google/playfair-700-normal.woff2') format('woff2');font-weight:700 900;font-style:normal;font-display:swap}
+  body{font-size:17px;background:#FFFFFF}
+  .h2-ind{text-transform:uppercase;border-bottom:2px solid #000000;display:inline-block;padding-bottom:6px}
+""" + FLUID + "</style>\n"
+COLOUR_MAP = [
+    (r'color:\s*#14448F', 'color:#000000'), (r'color:\s*#0A2E66', 'color:#000000'),
+    (r'color:\s*#01A0E2', 'color:#FFFFFF'), (r'color:\s*#4FC3F7', 'color:#FFFFFF'),
+    (r'color:\s*#8FD3F5', 'color:#FFFFFF'), (r'color:\s*#C8161D', 'color:#000000'),
+    (r'color:\s*#1B2533', 'color:#111111'), (r'color:\s*#3D4A5C', 'color:#444444'),
+    (r'color:\s*#4A586B', 'color:#4A4A4A'), (r'color:\s*#5B6B80', 'color:#555555'),
+    (r'color:\s*#D6E2F2', 'color:#E6E6E6'), (r'color:\s*#C8D8F0', 'color:#D0D0D0'),
+    (r'background:\s*#14448F', 'background:#000000'), (r'bgcolor="#14448F"', 'bgcolor="#000000"'),
+    (r'background:\s*#0A1F45', 'background:#000000'), (r'bgcolor="#0A1F45"', 'bgcolor="#000000"'),
+    (r'background:\s*#01A0E2', 'background:#000000'), (r'bgcolor="#01A0E2"', 'bgcolor="#000000"'),
+    (r'background:\s*#EAF0F6', 'background:#FFFFFF'), (r'bgcolor="#EAF0F6"', 'bgcolor="#FFFFFF"'),
+    (r'#E21D24', '#000000'),
+]
+def responsive(html, bg="#EAF0F6"):
+    out = html.replace('<meta charset="utf-8">',
+                       '<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">', 1)
+    out = re.sub(r'<div style="width:\s*640px;\s*min-height:\s*\d+px;\s*background:\s*#EAF0F6">',
+                 '<div style="width:100%%;background:%s">' % bg, out, count=1)
+    out = out.replace("</helmet>", (RESP_CSS if bg == "#EAF0F6" else FONTFACE) + "</helmet>", 1)
+    return out
+def industrial(html):
+    out = responsive(html, bg="#FFFFFF")
+    out = re.sub(r'<link href="https://fonts\.googleapis\.com/css2[^"]*" rel="stylesheet">\s*', '', out, count=1)
+    out = re.sub(r"font-family:'Archivo'[^;\"']*('[^']*')?", "font-family:'LV Playfair',Georgia,serif", out)
+    out = re.sub(r"font-family:'IBM Plex Sans',Arial,Helvetica,sans-serif", "font-family:'LV Inter',Inter,Arial,sans-serif", out)
+    out = re.sub(r'background-image:\s*linear-gradient\([^)]*\)', 'background-image:none', out)
+    for pat, rep in COLOUR_MAP:
+        out = re.sub(pat, rep, out)
+    heads = []
+    def head_tag(m):
+        tag = m.group(0)
+        sm = re.search(r'style="([^"]*)"', tag)
+        if not sm or "h2-ind" in tag:
+            return tag
+        style = sm.group(1)
+        size = re.search(r"font-size:(\d+)px", style)
+        weight = re.search(r"font-weight:(\d+)", style)
+        dark = "color:#000000" in style
+        text = re.sub(r"<[^>]+>", "", tag.split(">", 1)[1]) if ">" in tag else ""
+        if (size and int(size.group(1)) >= 20 and weight and int(weight.group(1)) >= 800 and dark
+                and len(text.strip()) >= 12):
+            heads.append(text.strip()[:44])
+            if 'class="' in tag:
+                return re.sub(r'class="([^"]*)"', lambda c: 'class="%s h2-ind"' % c.group(1), tag, count=1)
+            return re.sub(r'style="', 'class="h2-ind" style="', tag, count=1)
+        return tag
+    out = re.sub(r'<(?:div|td|span)\b[^>]*>[^<]*', head_tag, out)
+    print("   industrial: H2-treated headings (%d): %s" % (len(heads), " | ".join(heads)))
+    return out
+resp, ind = responsive(t), industrial(t)
+for name, html in (("Email-responsive.html", resp), ("Email-industrial.html", ind)):
+    p = os.path.join(DIR, name)
+    io.open(p, "w", encoding="utf-8", newline="").write(html)
+    print("   wrote %-24s %6.1f KB" % (name, os.path.getsize(p)/1024))
