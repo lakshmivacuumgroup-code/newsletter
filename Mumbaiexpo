@@ -1,661 +1,365 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>You're Invited &mdash; MET&amp;HTS 2026, Navi Mumbai</title>
-<!-- ============================================================
-  HOW TO USE — 2 simple steps
-  STEP 1: Run  check-banner.py  once. It finds your repo, makes sure
-          mumbaiexpo.html + assets/logo.webp + assets/MET_HTS_2026_banner_full.webp
-          are all in place, commits/pushes if needed, and waits until
-          all three are LIVE on lakshmivacuum.com.
-  STEP 2: Paste this HTML into Zoho Campaigns and send. Logo AND banner
-          load straight from your website — nothing to upload.
-  (If the script already printed ALL LIVE, just do step 2.)
-  Event details used: MET&HTS 2026, Booth C875, 16-18 December 2026,
-  CIDCO Exhibition Centre, Navi Mumbai. Contacts: Manjunath B.C, Arsalan Ayub.
-============================================================ -->
-<style type="text/css">
-  body { margin:0; padding:0; background:#EAF0F6; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
-  table { border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; }
-  img { border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; }
-  a { text-decoration:none; }
-  .rsp { width:100%; height:auto; display:block; }
-  @media screen and (max-width:640px) {
-    .wrap { width:100% !important; border-radius:0 !important; }
-    .col { display:block !important; width:100% !important; box-sizing:border-box; }
-    .stat { display:inline-block !important; width:48% !important; box-sizing:border-box; }
-    .pad { padding-left:22px !important; padding-right:22px !important; }
-  }
-  @media screen and (max-width:400px) {
-    .stat { display:block !important; width:100% !important; }
-    .btn a { display:block !important; box-sizing:border-box; }
-    .h1 { font-size:25px !important; line-height:1.25 !important; }
-    .bignum { font-size:24px !important; }
-    .ticketno { font-size:24px !important; }
-    .rsp { width:100% !important; height:auto !important; }
-  }
-</style>
+  <title>Meet us at MET&amp;HTS 2026 – Booth C875</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <style type="text/css">
+    body { margin:0; padding:0; background:#EAF0F6; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+    table { border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    img { border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; }
+    a { text-decoration:none; }
+    .rsp { width:100%; height:auto; display:block; }
+    @media screen and (max-width:740px) {
+      .wrap { width:100% !important; border-radius:0 !important; }
+      .col { display:block !important; width:100% !important; box-sizing:border-box; }
+      .stat { display:inline-block !important; width:48% !important; box-sizing:border-box; }
+      .pad { padding-left:22px !important; padding-right:22px !important; }
+    }
+    @media screen and (max-width:400px) {
+      .stat { display:block !important; width:100% !important; }
+      .btn a { display:block !important; box-sizing:border-box; }
+      .h1 { font-size:25px !important; line-height:1.25 !important; }
+      .bignum { font-size:24px !important; }
+      .ticketno { font-size:24px !important; }
+      .rsp { width:100% !important; height:auto !important; }
+    }
+  </style>
+  <style class="zccustomstyles" type="text/css">
+    .ze_body { font-family:Verdana,arial,Helvetica,sans-serif; font-size:13px; }
+    table { font-size:100%; }
+  </style>
 </head>
-<body class="ze_body" style="margin:0; padding:0; background:#EAF0F6;">
 
-<!-- hidden preheader -->
-<div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#EAF0F6;">
-A warm invitation to visit us at MET&amp;HTS 2026 &mdash; 16&ndash;18 December, CIDCO Exhibition Centre, Navi Mumbai. Booth C875. We saved you a spot.&nbsp;&nbsp;&#8203;&nbsp;&#8203;&nbsp;&#8203;&nbsp;&#8203;
-</div>
+<body class="ze_body">
 
-<!-- ============ outer shell ============ -->
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#EAF0F6" style="background:#EAF0F6;">
-<tr>
-<td align="center" style="padding:26px 12px 40px 12px;">
+  <!-- Preheader (hidden preview text) -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#EAF0F6;">
+    A warm invitation to visit us at MET&HTS 2026 — 16–18 December, CIDCO Exhibition Centre, Navi Mumbai. Booth C875. We saved you a spot.
+  </div>
 
-  <!-- ============ the card ============ -->
-  <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:600px; max-width:600px; background:#FFFFFF; border-radius:8px; overflow:hidden; box-shadow:0 6px 24px rgba(10,31,69,0.10);">
+  <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; background:#EAF0F6;" role="presentation" cellspacing="0" cellpadding="0" border="0" bgcolor="#EAF0F6">
+    <tbody>
+      <tr>
+        <td style="padding:26px 12px 40px 12px;" align="center">
 
-    <!-- top gradient bar -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
-    </tr>
+          <table width="700" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; width:700px; max-width:700px; background:#FFFFFF; border-radius:8px; overflow:hidden; box-shadow:0 6px 24px rgba(10,31,69,0.10);" role="presentation" class="wrap" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+            <tbody>
 
-    <!-- logo header -->
-    <tr>
-      <td align="center" style="padding:30px 40px 18px 40px;">
-        <a href="https://www.lakshmivacuum.com" target="_blank" style="text-decoration:none;">
-          <img src="https://www.lakshmivacuum.com/assets/logo.webp" width="150" alt="Lakshmi Vacuum Technologies" style="display:block; width:150px; height:auto; border:0;" />
-        </a>
-        <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#8A96A6; padding-top:14px;">MADE IN INDIA &nbsp;&middot;&nbsp; FOR THE WORLD</div>
-      </td>
-    </tr>
+              <!-- Top colour bar -->
+              <tr>
+                <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
+              </tr>
 
-    <!-- ============ navy hero with banner ============ -->
-    <tr>
-      <td bgcolor="#0A1F45" style="background:#0A1F45; padding:0;">
-        <img class="rsp" src="https://www.lakshmivacuum.com/assets/MET_HTS_2026_banner_full.webp" width="600" height="338" alt="Meet us at MET&amp;HTS 2026 &mdash; Booth C875, 16&ndash;18 December 2026, CIDCO Exhibition Centre, Navi Mumbai" style="display:block; width:100%; height:auto; border:0;" />
-        <div style="padding:26px 40px 30px 40px; text-align:center;">
-          <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:2.4px; color:#01A0E2;">AN OPEN INVITATION &mdash; WELCOME ALL</div>
-          <div class="h1" style="font-family:Arial,Helvetica,sans-serif; font-size:30px; line-height:1.3; font-weight:bold; color:#FFFFFF; padding-top:12px;">
-            Come Say Hello at <span style="color:#01A0E2;">MET&amp;HTS&nbsp;2026</span>
-          </div>
-          <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.65; color:#C9D6E8; padding-top:12px;">
-            Three days of good conversations in Navi Mumbai &mdash; and a booth with your name on it.
-          </div>
-        </div>
-      </td>
-    </tr>
+              <!-- Logo -->
+              <tr>
+                <td style="padding:30px 40px 18px 40px;" align="center">
+                  <a target="_blank" style="text-decoration:none;" rel="noopener noreferrer" href="https://www.lakshmivacuum.com">
+                    <img width="150" height="128" style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; border:0; display:block; width:150px; max-width:150px; height:128px;" src="https://stratus.campaign-image.in/images/logo_zc_v1_384835000000284042.png" class="" alt="Lakshmi Vacuum Technologies" align="middle">
+                  </a>
+                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#8A96A6; padding-top:14px;">MADE IN INDIA &nbsp;·&nbsp; FOR THE WORLD</div>
+                </td>
+              </tr>
 
-    <!-- bottom accent bar of hero -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#E21D24 0%,#14448F 45%,#01A0E2 100%);">&nbsp;</td>
-    </tr>
-
-    <!-- ============ warm letter ============ -->
-    <tr>
-      <td class="pad" style="padding:34px 44px 8px 44px; font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#333333;">
-        <p style="margin:0 0 16px 0;">Dear Sir / Madam,</p>
-        <p style="margin:0 0 16px 0;">
-          Some things are simply better face to face &mdash; a proper hello, a real conversation,
-          and the chance to show you around our little corner of the exhibition. This December,
-          we get to do exactly that. We&rsquo;re packing our enthusiasm (and a lot of coffee) and
-          setting up at <strong style="color:#14448F;">MET&amp;HTS 2026</strong> in Navi Mumbai.
-        </p>
-        <p style="margin:0;">
-          There&rsquo;ll be no long speeches and no complicated charts. Just our team, our story of
-          20+ years of building, and an open booth. Whether we&rsquo;ve worked together before or
-          this is our first hello &mdash; <strong style="color:#0A1F45;">you are very welcome</strong>.
-        </p>
-      </td>
-    </tr>
-
-    <!-- ============ ticket-style booth pass ============ -->
-    <tr>
-      <td class="pad" style="padding:26px 44px 6px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0A1F45" style="background:#0A1F45; border-radius:10px;">
-          <tr>
-            <td style="padding:7px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px dashed #4A6390; border-radius:7px; background:#0D2650;">
-                <tr>
-                  <td align="center" style="padding:22px 20px 20px 20px;">
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:11px; font-weight:bold; letter-spacing:2.6px; color:#01A0E2;">ADMIT&nbsp;ALL</div>
-                    <div class="ticketno" style="font-family:'Courier New',Courier,monospace; font-size:32px; font-weight:bold; letter-spacing:2px; color:#FFFFFF; padding-top:8px;">BOOTH&nbsp;C875</div>
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:1.6px; color:#8FD3F5; padding-top:12px; margin-top:12px; border-top:1px dotted #33507F;">
-                      16 &ndash; 18 DECEMBER 2026<br />
-                      CIDCO EXHIBITION CENTRE &nbsp;&middot;&nbsp; NAVI MUMBAI
+              <!-- Hero banner and heading -->
+              <tr>
+                <td style="background:#0A1F45; padding:0;" bgcolor="#0A1F45">
+                  <img width="700" height="393" style="width:100%; height:auto; -ms-interpolation-mode:bicubic; outline:none; text-decoration:none; border:0; display:block; max-width:700px;" src="https://stratus.campaign-image.in/images/met_hts_2026_banner_full__1__zc_v1_384835000000284042.jpg" class="rsp" alt="Meet us at MET&HTS 2026 — Booth C875, 16–18 December 2026, CIDCO Exhibition Centre, Navi Mumbai" align="middle">
+                  <div style="padding:26px 40px 30px 40px; text-align:center;">
+                    <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:2.4px; color:#01A0E2;">AN OPEN INVITATION — WELCOME ALL</div>
+                    <div style="font-family:Arial,Helvetica,sans-serif; font-size:30px; line-height:1.3; font-weight:bold; color:#FFFFFF; padding-top:12px;" class="h1">
+                      Come Say Hello at <span style="color:#01A0E2;">MET&HTS 2026</span>
                     </div>
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2px; color:#5E79A6; padding-top:12px;">COFFEE&rsquo;S ON US</div>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
+                    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.65; color:#C9D6E8; padding-top:12px;">
+                      Three days of good conversations in Navi Mumbai — and a booth with your name on it.
+                    </div>
+                  </div>
+                </td>
+              </tr>
 
-    <!-- ============ what awaits you ============ -->
-    <tr>
-      <td class="pad" align="center" style="padding:32px 44px 4px 44px;">
-        <div style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.2px; color:#C8161D;">AT BOOTH C875</div>
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:22px; font-weight:bold; color:#0A1F45; padding-top:8px;">What awaits you</div>
-        <div style="width:26px; height:3px; background:#E21D24; margin:10px auto 0 auto; font-size:0; line-height:0;">&nbsp;</div>
-      </td>
-    </tr>
-    <tr>
-      <td class="pad" style="padding:18px 44px 4px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td class="col" width="50%" valign="top" style="padding:0 6px 12px 0;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">SAY HELLO</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Meet the people</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Put faces to the name &mdash; the folks who build, support and answer the phone, all in one place.</div>
-                </td></tr>
-              </table>
-            </td>
-            <td class="col" width="50%" valign="top" style="padding:0 0 12px 6px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">YOUR PLANS</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Talk about your goals</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Tell us what you&rsquo;re working on. We&rsquo;ll listen first &mdash; and only then, share ideas.</div>
-                </td></tr>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td class="col" width="50%" valign="top" style="padding:0 6px 12px 0;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">THE JOURNEY</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">See how it&rsquo;s made</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Photos and stories from 20+ years of building in Bengaluru &mdash; one project at a time.</div>
-                </td></tr>
-              </table>
-            </td>
-            <td class="col" width="50%" valign="top" style="padding:0 0 12px 6px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">EASY GOING</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">No pressure, no pitch</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Just coffee, honest answers and a warm industrial hello. Stay five minutes or an hour.</div>
-                </td></tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
+              <!-- Colour bar -->
+              <tr>
+                <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#E21D24 0%,#14448F 45%,#01A0E2 100%);">&nbsp;</td>
+              </tr>
 
-    <!-- ============ friendly checklist ============ -->
-    <tr>
-      <td class="pad" style="padding:14px 44px 6px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Mark the dates &mdash; <strong style="color:#0A1F45;">16, 17 &amp; 18 December 2026</strong>
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Plan about an hour &mdash; good conversations take time
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Bring your questions, your ideas and your visiting card
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Come as you are &mdash; leave with new ideas and new friends
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
+              <!-- Intro text -->
+              <tr>
+                <td style="padding:34px 44px 8px 44px; font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#333333;" class="pad">
+                  <p style="margin:0 0 16px 0;">Dear Sir / Madam,</p>
+                  <p style="margin:0 0 16px 0;">
+                    Some things are simply better face to face — a proper hello, a real conversation,
+                    and the chance to show you around our little corner of the exhibition. This December,
+                    we get to do exactly that. We’re packing our enthusiasm (and a lot of coffee) and
+                    setting up at <strong style="color:#14448F;">MET&HTS 2026</strong> in Navi Mumbai.
+                  </p>
+                  <p style="margin:0;">
+                    There’ll be no long speeches and no complicated charts. Just our team, our story of
+                    20+ years of building, and an open booth. Whether we’ve worked together before or
+                    this is our first hello — <strong style="color:#0A1F45;">you are very welcome</strong>.
+                  </p>
+                </td>
+              </tr>
 
-    <!-- ============ blue stat band ============ -->
-    <tr>
-      <td class="pad" style="padding:24px 44px 4px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#14448F" style="background:#14448F; border-radius:8px;">
-          <tr>
-            <td align="center" style="padding:20px 10px; font-size:0; line-height:0;">
-              <div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;">2003</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">BUILDING SINCE</div>
-              </div><div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;">450+</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">FURNACES DELIVERED</div>
-              </div><div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#01A0E2; line-height:1.2;">ISO</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">CERTIFIED QUALITY</div>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
+              <!-- Booth ticket -->
+              <tr>
+                <td style="padding:26px 44px 6px 44px;" class="pad">
+                  <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; background:#0A1F45; border-radius:10px;" role="presentation" cellspacing="0" cellpadding="0" border="0" bgcolor="#0A1F45">
+                    <tbody>
+                      <tr>
+                        <td style="padding:7px;">
+                          <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px dashed #4A6390; border-radius:7px; background:#0D2650;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding:22px 20px 20px 20px;" align="center">
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:11px; font-weight:bold; letter-spacing:2.6px; color:#01A0E2;">ADMIT ALL</div>
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:32px; font-weight:bold; letter-spacing:2px; color:#FFFFFF; padding-top:8px;" class="ticketno">BOOTH C875</div>
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:1.6px; color:#8FD3F5; padding-top:12px; margin-top:12px; border-top:1px dotted #33507F;">
+                                    16 – 18 DECEMBER 2026<br>
+                                    CIDCO EXHIBITION CENTRE &nbsp;·&nbsp; NAVI MUMBAI
+                                  </div>
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2px; color:#5E79A6; padding-top:12px;">COFFEE’S ON US</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
 
-    <!-- ============ CTA ============ -->
-    <tr>
-      <td align="center" class="pad" style="padding:30px 44px 6px 44px;">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn">
-          <tr>
-            <td bgcolor="#0A1F45" style="background:#0A1F45; border-radius:6px;">
-              <a href="https://www.lakshmivacuum.com/contact.html" target="_blank" style="display:inline-block; padding:15px 36px; font-family:'Courier New',Courier,monospace; font-size:14px; font-weight:bold; letter-spacing:1.6px; color:#FFFFFF; text-decoration:none;">PLAN YOUR VISIT &rarr;</a>
-            </td>
-          </tr>
-        </table>
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#55606E; padding-top:14px;">
-          Prefer email? Write to us any time at
-          <a href="mailto:marketing@lakshmivacuum.com" style="color:#14448F; text-decoration:underline;">marketing@lakshmivacuum.com</a>
-          &mdash; a human replies.
-        </div>
-      </td>
-    </tr>
+              <!-- Section heading -->
+              <tr>
+                <td style="padding:32px 44px 4px 44px;" class="pad" align="center">
+                  <div style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.2px; color:#C8161D;">AT BOOTH C875</div>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:22px; font-weight:bold; color:#0A1F45; padding-top:8px;">What awaits you</div>
+                  <div style="width:26px; height:3px; background:#E21D24; margin:10px auto 0 auto; font-size:0; line-height:0;">&nbsp;</div>
+                </td>
+              </tr>
 
-    <!-- P.S. -->
-    <tr>
-      <td class="pad" style="padding:18px 44px 4px 44px;">
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.65; color:#8A96A6; font-style:italic;">
-          P.S. Can&rsquo;t make it to Mumbai? Just reply to this email &mdash; we&rsquo;ll find another time and way to meet.
-        </div>
-      </td>
-    </tr>
+              <!-- Four cards -->
+              <tr>
+                <td style="padding:18px 44px 4px 44px;" class="pad">
+                  <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
 
-    <!-- signature -->
-    <tr>
-      <td class="pad" style="padding:18px 44px 34px 44px; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-        With warm regards,<br />
-        <strong style="color:#0A1F45;">Marketing Team</strong><br />
-        <span style="color:#8A96A6;">Lakshmi Vacuum Technologies Pvt. Ltd.</span>
-      </td>
-    </tr>
+                      <tr>
+                        <!-- Card 1 -->
+                        <td width="50%" valign="top" style="padding:0 6px 12px 0;" class="col">
+                          <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #E3EAF2; border-radius:6px;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding:16px;">
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">SAY HELLO</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Meet the people</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Put faces to the name — the folks who build, support and answer the phone, all in one place.</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
 
-    <!-- bottom gradient bar -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
-    </tr>
+                        <!-- Card 2 -->
+                        <td width="50%" valign="top" style="padding:0 0 12px 6px;" class="col">
+                          <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #E3EAF2; border-radius:6px;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding:16px;">
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">YOUR PLANS</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Talk about your goals</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Tell us what you’re working on. We’ll listen first — and only then, share ideas.</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
 
-    <!-- ============ navy footer ============ -->
-    <tr>
-      <td bgcolor="#0A1F45" style="background:#0A1F45; padding:30px 40px 28px 40px;">
-        <div align="center" style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.4px; color:#01A0E2;">PRECISION &nbsp;&middot;&nbsp; PERFORMANCE &nbsp;&middot;&nbsp; RELIABILITY</div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#FFFFFF; padding-top:14px;">Lakshmi Vacuum Technologies Pvt. Ltd.</div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:1.7; color:#9FB0CC; padding-top:8px;">
-          Peenya Industrial Area, Bengaluru &ndash; 560058, Karnataka, India<br />
-          <a href="tel:+917022038671" style="color:#C9D6E8; text-decoration:none;">+91 70 22 038 671</a>
-        </div>
-        <div align="center" style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#01A0E2; padding-top:16px;">EVENT CONTACTS</div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:2; color:#C9D6E8; padding-top:6px;">
-          <strong style="color:#FFFFFF;">Manjunath B.C</strong> &nbsp;&mdash;&nbsp; <a href="mailto:marketing@lakshmivacuum.com" style="color:#8FD3F5; text-decoration:underline;">marketing@lakshmivacuum.com</a><br />
-          <strong style="color:#FFFFFF;">Arsalan Ayub</strong> &nbsp;&mdash;&nbsp; <a href="tel:+919900840022" style="color:#8FD3F5; text-decoration:underline;">+91 99 00 840 022</a>
-        </div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.7; color:#5E79A6; padding-top:18px; border-top:1px solid #1D3560; margin-top:18px;">
-          You&rsquo;re receiving this because we&rsquo;ve worked together, met at an event, or you subscribed.<br />
-          <a href="#" style="color:#8FD3F5; text-decoration:underline;">Subscribe</a> &nbsp;&middot;&nbsp;
-          <a href="#" style="color:#8FD3F5; text-decoration:underline;">Unsubscribe</a>
-          &nbsp;&middot;&nbsp;
-          <span style="color:#5E79A6;">&copy; 2026 Lakshmi Vacuum Technologies Pvt. Ltd.</span>
-        </div>
-      </td>
-    </tr>
+                      <tr>
+                        <!-- Card 3 -->
+                        <td width="50%" valign="top" style="padding:0 6px 12px 0;" class="col">
+                          <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #E3EAF2; border-radius:6px;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding:16px;">
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">THE JOURNEY</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">See how it’s made</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Photos and stories from 20+ years of building in Bengaluru — one project at a time.</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
 
+                        <!-- Card 4 -->
+                        <td width="50%" valign="top" style="padding:0 0 12px 6px;" class="col">
+                          <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #E3EAF2; border-radius:6px;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding:16px;">
+                                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">EASY GOING</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">No pressure, no pitch</div>
+                                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Just coffee, honest answers and a warm industrial hello. Stay five minutes or an hour.</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <!-- Checklist -->
+              <tr>
+                <td style="padding:14px 44px 6px 44px;" class="pad">
+                  <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+
+                      <tr>
+                        <td width="30" valign="top" style="padding:5px 8px 5px 0;">
+                          <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">✓</div>
+                        </td>
+                        <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
+                          Mark the dates — <strong style="color:#0A1F45;">16, 17 &amp; 18 December 2026</strong>
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td width="30" valign="top" style="padding:5px 8px 5px 0;">
+                          <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">✓</div>
+                        </td>
+                        <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
+                          Plan about an hour — good conversations take time
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td width="30" valign="top" style="padding:5px 8px 5px 0;">
+                          <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">✓</div>
+                        </td>
+                        <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
+                          Bring your questions, your ideas and your visiting card
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <td width="30" valign="top" style="padding:5px 8px 5px 0;">
+                          <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">✓</div>
+                        </td>
+                        <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
+                          Come as you are — leave with new ideas and new friends
+                        </td>
+                      </tr>
+
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <!-- Stats strip -->
+              <tr>
+                <td style="padding:24px 44px 4px 44px;" class="pad">
+                  <table width="100%" style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; background:#14448F; border-radius:8px;" role="presentation" cellspacing="0" cellpadding="0" border="0" bgcolor="#14448F">
+                    <tbody>
+                      <tr>
+                        <td style="padding:20px 10px; font-size:0; line-height:0;" align="center">
+
+                          <div style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;" class="stat">
+                            <div style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;" class="bignum">2003</div>
+                            <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">BUILDING SINCE</div>
+                          </div><div style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;" class="stat">
+                            <div style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;" class="bignum">450+</div>
+                            <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">FURNACES DELIVERED</div>
+                          </div><div style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;" class="stat">
+                            <div style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#01A0E2; line-height:1.2;" class="bignum">ISO</div>
+                            <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">CERTIFIED QUALITY</div>
+                          </div>
+
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+              <!-- Button and email line -->
+              <tr>
+                <td style="padding:30px 44px 6px 44px;" class="pad" align="center">
+                  <table style="border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation" class="btn" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="background:#0A1F45; border-radius:6px;" bgcolor="#0A1F45">
+                          <a target="_blank" style="text-decoration:none; display:inline-block; padding:15px 36px; font-family:'Courier New',Courier,monospace; font-size:14px; font-weight:bold; letter-spacing:1.6px; color:#FFFFFF;" rel="noopener noreferrer" href="https://www.lakshmivacuum.com/contact.html">PLAN YOUR VISIT →</a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#55606E; padding-top:14px;">
+                    Prefer email? Write to us any time at
+                    <a style="text-decoration:underline; color:#14448F;" href="mailto:marketing@lakshmivacuum.com">marketing@lakshmivacuum.com</a>
+                    — a human replies.
+                  </div>
+                </td>
+              </tr>
+
+              <!-- P.S. -->
+              <tr>
+                <td style="padding:18px 44px 4px 44px;" class="pad">
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.65; color:#8A96A6; font-style:italic;">
+                    P.S. Can’t make it to Mumbai? Just reply to this email — we’ll find another time and way to meet.
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Signature -->
+              <tr>
+                <td style="padding:18px 44px 34px 44px; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;" class="pad">
+                  With warm regards,<br>
+                  <strong style="color:#0A1F45;">Marketing Team</strong><br>
+                  <span style="color:#8A96A6;">Lakshmi Vacuum Technologies Pvt. Ltd.</span>
+                </td>
+              </tr>
+
+              <!-- Colour bar -->
+              <tr>
+                <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
+              </tr>
+
+              <!-- Footer -->
+              <tr>
+                <td style="background:#0A1F45; padding:30px 40px 28px 40px;" bgcolor="#0A1F45">
+                  <div style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.4px; color:#01A0E2;" align="center">PRECISION &nbsp;·&nbsp; PERFORMANCE &nbsp;·&nbsp; RELIABILITY</div>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#FFFFFF; padding-top:14px;" align="center">Lakshmi Vacuum Technologies Pvt. Ltd.</div>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:1.7; color:#9FB0CC; padding-top:8px;" align="center">
+                    Peenya Industrial Area, Bengaluru – 560058, Karnataka, India
+                  </div>
+
+                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#01A0E2; padding-top:16px;" align="center">EVENT CONTACTS</div>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:2; color:#C9D6E8; padding-top:6px;" align="center">
+                    <strong style="color:#FFFFFF;">Manjunath B.C</strong> &nbsp;—&nbsp; <a style="text-decoration:underline; color:#8FD3F5;" href="tel:+917022038671">+91 70 22 038 671</a><br>
+                    <strong style="color:#FFFFFF;">Arsalan Ayub</strong> &nbsp;—&nbsp; <a style="text-decoration:underline; color:#8FD3F5;" href="tel:+919900840022">+91 99 00 840 022</a><br>
+                    <strong style="color:#FFFFFF;">Email</strong> &nbsp;—&nbsp; <a style="text-decoration:underline; color:#8FD3F5;" href="mailto:marketing@lakshmivacuum.com">marketing@lakshmivacuum.com</a>
+                  </div>
+
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.7; color:#5E79A6; padding-top:18px; border-top:1px solid #1D3560; margin-top:18px;" align="center">
+                    You’re receiving this because we’ve worked together, met at an event, or you subscribed.<br>
+                    <a style="text-decoration:underline; color:#8FD3F5;" target="_blank" rel="noopener noreferrer" href="https://www.lakshmivacuum.com/subscribe.html">Subscribe</a>
+                    &nbsp;·&nbsp;
+                    <a style="text-decoration:underline; color:#8FD3F5;" href="$[LI:UNSUBSCRIBE]$">Unsubscribe</a>
+                    &nbsp;·&nbsp;
+                    <span style="color:#5E79A6;">© 2026 Lakshmi Vacuum Technologies Pvt. Ltd.</span>
+                  </div>
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+
+        </td>
+      </tr>
+    </tbody>
   </table>
-  <!-- ============ /the card ============ -->
-
-</td>
-</tr>
-</table>
 
 </body>
-</html>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>You're Invited &mdash; MET&amp;HTS 2026, Navi Mumbai</title>
-<!-- ============================================================
-  HOW TO USE IN ZOHO CAMPAIGNS  (2 quick swaps, then send)
-  1) Upload logo.webp and MET_HTS_2026_banner_full.webp to the Zoho image library.
-  2) Replace  REPLACE-WITH-LOGO-URL    with the hosted URL of  logo.webp
-  3) Replace  REPLACE-WITH-BANNER-URL  with the hosted URL of  MET_HTS_2026_banner_full.webp
-  4) Optional: point the Unsubscribe links at your Zoho unsubscribe token.
-  Everything else is ready. Event details used: MET&amp;HTS 2026,
-  Booth C875, 16-18 December 2026, CIDCO Exhibition Centre, Navi Mumbai.
-============================================================ -->
-<style type="text/css">
-  body { margin:0; padding:0; background:#EAF0F6; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
-  table { border-collapse:collapse !important; mso-table-lspace:0pt; mso-table-rspace:0pt; }
-  img { border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; }
-  a { text-decoration:none; }
-  .rsp { width:100%; height:auto; display:block; }
-  @media screen and (max-width:640px) {
-    .wrap { width:100% !important; border-radius:0 !important; }
-    .col { display:block !important; width:100% !important; box-sizing:border-box; }
-    .stat { display:inline-block !important; width:48% !important; box-sizing:border-box; }
-    .pad { padding-left:22px !important; padding-right:22px !important; }
-  }
-  @media screen and (max-width:400px) {
-    .stat { display:block !important; width:100% !important; }
-    .btn a { display:block !important; box-sizing:border-box; }
-    .h1 { font-size:25px !important; line-height:1.25 !important; }
-    .bignum { font-size:24px !important; }
-    .ticketno { font-size:24px !important; }
-    .rsp { width:100% !important; height:auto !important; }
-  }
-</style>
-</head>
-<body class="ze_body" style="margin:0; padding:0; background:#EAF0F6;">
-
-<!-- hidden preheader -->
-<div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#EAF0F6;">
-A warm invitation to visit us at MET&amp;HTS 2026 &mdash; 16&ndash;18 December, CIDCO Exhibition Centre, Navi Mumbai. Booth C875. We saved you a spot.&nbsp;&nbsp;&#8203;&nbsp;&#8203;&nbsp;&#8203;&nbsp;&#8203;
-</div>
-
-<!-- ============ outer shell ============ -->
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#EAF0F6" style="background:#EAF0F6;">
-<tr>
-<td align="center" style="padding:26px 12px 40px 12px;">
-
-  <!-- ============ the card ============ -->
-  <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:600px; max-width:600px; background:#FFFFFF; border-radius:8px; overflow:hidden; box-shadow:0 6px 24px rgba(10,31,69,0.10);">
-
-    <!-- top gradient bar -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
-    </tr>
-
-    <!-- logo header -->
-    <tr>
-      <td align="center" style="padding:30px 40px 18px 40px;">
-        <a href="https://www.lakshmivacuum.com" target="_blank" style="text-decoration:none;">
-          <img src="REPLACE-WITH-LOGO-URL" width="150" alt="Lakshmi Vacuum Technologies" style="display:block; width:150px; height:auto; border:0;" />
-        </a>
-        <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#8A96A6; padding-top:14px;">MADE IN INDIA &nbsp;&middot;&nbsp; FOR THE WORLD</div>
-      </td>
-    </tr>
-
-    <!-- ============ navy hero with banner ============ -->
-    <tr>
-      <td bgcolor="#0A1F45" style="background:#0A1F45; padding:0;">
-        <img class="rsp" src="REPLACE-WITH-BANNER-URL" width="600" height="338" alt="Meet us at MET&amp;HTS 2026 &mdash; Booth C875, 16&ndash;18 December 2026, CIDCO Exhibition Centre, Navi Mumbai" style="display:block; width:100%; height:auto; border:0;" />
-        <div style="padding:26px 40px 30px 40px; text-align:center;">
-          <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:2.4px; color:#01A0E2;">AN OPEN INVITATION &mdash; WELCOME ALL</div>
-          <div class="h1" style="font-family:Arial,Helvetica,sans-serif; font-size:30px; line-height:1.3; font-weight:bold; color:#FFFFFF; padding-top:12px;">
-            Come Say Hello at <span style="color:#01A0E2;">MET&amp;HTS&nbsp;2026</span>
-          </div>
-          <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.65; color:#C9D6E8; padding-top:12px;">
-            Three days of good conversations in Navi Mumbai &mdash; and a booth with your name on it.
-          </div>
-        </div>
-      </td>
-    </tr>
-
-    <!-- bottom accent bar of hero -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#E21D24 0%,#14448F 45%,#01A0E2 100%);">&nbsp;</td>
-    </tr>
-
-    <!-- ============ warm letter ============ -->
-    <tr>
-      <td class="pad" style="padding:34px 44px 8px 44px; font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#333333;">
-        <p style="margin:0 0 16px 0;">Dear Sir / Madam,</p>
-        <p style="margin:0 0 16px 0;">
-          Some things are simply better face to face &mdash; a proper hello, a real conversation,
-          and the chance to show you around our little corner of the exhibition. This December,
-          we get to do exactly that. We&rsquo;re packing our enthusiasm (and a lot of coffee) and
-          setting up at <strong style="color:#14448F;">MET&amp;HTS 2026</strong> in Navi Mumbai.
-        </p>
-        <p style="margin:0;">
-          There&rsquo;ll be no long speeches and no complicated charts. Just our team, our story of
-          20+ years of building, and an open booth. Whether we&rsquo;ve worked together before or
-          this is our first hello &mdash; <strong style="color:#0A1F45;">you are very welcome</strong>.
-        </p>
-      </td>
-    </tr>
-
-    <!-- ============ ticket-style booth pass ============ -->
-    <tr>
-      <td class="pad" style="padding:26px 44px 6px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0A1F45" style="background:#0A1F45; border-radius:10px;">
-          <tr>
-            <td style="padding:7px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px dashed #4A6390; border-radius:7px; background:#0D2650;">
-                <tr>
-                  <td align="center" style="padding:22px 20px 20px 20px;">
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:11px; font-weight:bold; letter-spacing:2.6px; color:#01A0E2;">ADMIT&nbsp;ALL</div>
-                    <div class="ticketno" style="font-family:'Courier New',Courier,monospace; font-size:32px; font-weight:bold; letter-spacing:2px; color:#FFFFFF; padding-top:8px;">BOOTH&nbsp;C875</div>
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:12px; letter-spacing:1.6px; color:#8FD3F5; padding-top:12px; margin-top:12px; border-top:1px dotted #33507F;">
-                      16 &ndash; 18 DECEMBER 2026<br />
-                      CIDCO EXHIBITION CENTRE &nbsp;&middot;&nbsp; NAVI MUMBAI
-                    </div>
-                    <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2px; color:#5E79A6; padding-top:12px;">COFFEE&rsquo;S ON US</div>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <!-- ============ what awaits you ============ -->
-    <tr>
-      <td class="pad" align="center" style="padding:32px 44px 4px 44px;">
-        <div style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.2px; color:#C8161D;">AT BOOTH C875</div>
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:22px; font-weight:bold; color:#0A1F45; padding-top:8px;">What awaits you</div>
-        <div style="width:26px; height:3px; background:#E21D24; margin:10px auto 0 auto; font-size:0; line-height:0;">&nbsp;</div>
-      </td>
-    </tr>
-    <tr>
-      <td class="pad" style="padding:18px 44px 4px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td class="col" width="50%" valign="top" style="padding:0 6px 12px 0;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">SAY HELLO</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Meet the people</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Put faces to the name &mdash; the folks who build, support and answer the phone, all in one place.</div>
-                </td></tr>
-              </table>
-            </td>
-            <td class="col" width="50%" valign="top" style="padding:0 0 12px 6px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">YOUR PLANS</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">Talk about your goals</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Tell us what you&rsquo;re working on. We&rsquo;ll listen first &mdash; and only then, share ideas.</div>
-                </td></tr>
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td class="col" width="50%" valign="top" style="padding:0 6px 12px 0;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">THE JOURNEY</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">See how it&rsquo;s made</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Photos and stories from 20+ years of building in Bengaluru &mdash; one project at a time.</div>
-                </td></tr>
-              </table>
-            </td>
-            <td class="col" width="50%" valign="top" style="padding:0 0 12px 6px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #E3EAF2; border-radius:6px;">
-                <tr><td style="padding:16px;">
-                  <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.8px; color:#C8161D;">EASY GOING</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#14448F; padding-top:6px;">No pressure, no pitch</div>
-                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.6; color:#55606E; padding-top:6px;">Just coffee, honest answers and a warm industrial hello. Stay five minutes or an hour.</div>
-                </td></tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <!-- ============ friendly checklist ============ -->
-    <tr>
-      <td class="pad" style="padding:14px 44px 6px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Mark the dates &mdash; <strong style="color:#0A1F45;">16, 17 &amp; 18 December 2026</strong>
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Plan about an hour &mdash; good conversations take time
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Bring your questions, your ideas and your visiting card
-            </td>
-          </tr>
-          <tr>
-            <td width="30" valign="top" style="padding:5px 8px 5px 0;">
-              <div style="width:22px; height:22px; border-radius:11px; background:#E7F6FD; text-align:center; line-height:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#01A0E2;">&#10003;</div>
-            </td>
-            <td valign="top" style="padding:5px 0; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-              Come as you are &mdash; leave with new ideas and new friends
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <!-- ============ blue stat band ============ -->
-    <tr>
-      <td class="pad" style="padding:24px 44px 4px 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#14448F" style="background:#14448F; border-radius:8px;">
-          <tr>
-            <td align="center" style="padding:20px 10px; font-size:0; line-height:0;">
-              <div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;">2003</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">BUILDING SINCE</div>
-              </div><div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; line-height:1.2;">450+</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">FURNACES DELIVERED</div>
-              </div><div class="stat" style="display:inline-block; width:32%; vertical-align:top; font-size:0; line-height:0; text-align:center;">
-                <div class="bignum" style="font-family:Arial,Helvetica,sans-serif; font-size:26px; font-weight:bold; color:#01A0E2; line-height:1.2;">ISO</div>
-                <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:1.5px; color:#8FD3F5; padding-top:6px;">CERTIFIED QUALITY</div>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <!-- ============ CTA ============ -->
-    <tr>
-      <td align="center" class="pad" style="padding:30px 44px 6px 44px;">
-        <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" class="btn">
-          <tr>
-            <td bgcolor="#0A1F45" style="background:#0A1F45; border-radius:6px;">
-              <a href="https://www.lakshmivacuum.com/contact.html" target="_blank" style="display:inline-block; padding:15px 36px; font-family:'Courier New',Courier,monospace; font-size:14px; font-weight:bold; letter-spacing:1.6px; color:#FFFFFF; text-decoration:none;">PLAN YOUR VISIT &rarr;</a>
-            </td>
-          </tr>
-        </table>
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#55606E; padding-top:14px;">
-          Prefer email? Write to us any time at
-          <a href="mailto:marketing@lakshmivacuum.com" style="color:#14448F; text-decoration:underline;">marketing@lakshmivacuum.com</a>
-          &mdash; a human replies.
-        </div>
-      </td>
-    </tr>
-
-    <!-- ============ your contact ============ -->
-    <tr>
-      <td class="pad" style="padding:22px 44px 0 44px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F4F8FC" style="background:#F4F8FC; border:1px solid #D5E3F0; border-radius:8px;">
-          <tr>
-            <td align="center" style="padding:20px 18px 18px 18px;">
-              <div style="font-family:'Courier New',Courier,monospace; font-size:10px; letter-spacing:2.2px; color:#14448F;">ANY QUESTIONS?</div>
-              <div style="font-family:Arial,Helvetica,sans-serif; font-size:17px; font-weight:bold; color:#0A1F45; padding-top:6px;">Arsalan Ayub</div>
-              <div style="padding-top:10px;">
-                <a href="tel:+919900840022" style="display:inline-block; padding:10px 24px; border:1px solid #14448F; border-radius:6px; font-family:'Courier New',Courier,monospace; font-size:13px; font-weight:bold; letter-spacing:1.2px; color:#14448F; text-decoration:none;">+91 99 00 840 022</a>
-              </div>
-              <div style="font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#8A96A6; padding-top:10px;">Happy to help &mdash; before, during or after the show.</div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <!-- P.S. -->
-    <tr>
-      <td class="pad" style="padding:18px 44px 4px 44px;">
-        <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.65; color:#8A96A6; font-style:italic;">
-          P.S. Can&rsquo;t make it to Mumbai? Just reply to this email &mdash; we&rsquo;ll find another time and way to meet.
-        </div>
-      </td>
-    </tr>
-
-    <!-- signature -->
-    <tr>
-      <td class="pad" style="padding:18px 44px 34px 44px; font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#333333;">
-        With warm regards,<br />
-        <strong style="color:#0A1F45;">Marketing Team</strong><br />
-        <span style="color:#8A96A6;">Lakshmi Vacuum Technologies Pvt. Ltd.</span>
-      </td>
-    </tr>
-
-    <!-- bottom gradient bar -->
-    <tr>
-      <td style="height:5px; line-height:5px; font-size:0; background:linear-gradient(90deg,#01A0E2 0%,#14448F 55%,#E21D24 100%);">&nbsp;</td>
-    </tr>
-
-    <!-- ============ navy footer ============ -->
-    <tr>
-      <td bgcolor="#0A1F45" style="background:#0A1F45; padding:30px 40px 28px 40px;">
-        <div align="center" style="font-family:'Courier New',Courier,monospace; font-size:11px; letter-spacing:2.4px; color:#01A0E2;">PRECISION &nbsp;&middot;&nbsp; PERFORMANCE &nbsp;&middot;&nbsp; RELIABILITY</div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:15px; font-weight:bold; color:#FFFFFF; padding-top:14px;">Lakshmi Vacuum Technologies Pvt. Ltd.</div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:1.7; color:#9FB0CC; padding-top:8px;">
-          Peenya Industrial Area, Bengaluru &ndash; 560058, Karnataka, India<br />
-          <a href="mailto:marketing@lakshmivacuum.com" style="color:#C9D6E8; text-decoration:underline;">marketing@lakshmivacuum.com</a>
-          &nbsp;&middot;&nbsp;
-          <a href="tel:+917022038671" style="color:#C9D6E8; text-decoration:none;">+91 70 22 038 671</a>
-        </div>
-        <div align="center" style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.7; color:#5E79A6; padding-top:18px; border-top:1px solid #1D3560; margin-top:18px;">
-          You&rsquo;re receiving this because we&rsquo;ve worked together, met at an event, or you subscribed.<br />
-          <a href="#" style="color:#8FD3F5; text-decoration:underline;">Subscribe</a> &nbsp;&middot;&nbsp;
-          <a href="#" style="color:#8FD3F5; text-decoration:underline;">Unsubscribe</a>
-          &nbsp;&middot;&nbsp;
-          <span style="color:#5E79A6;">&copy; 2026 Lakshmi Vacuum Technologies Pvt. Ltd.</span>
-        </div>
-      </td>
-    </tr>
-
-  </table>
-  <!-- ============ /the card ============ -->
-
-</td>
-</tr>
-</table>
-
-</body>
-</html>
