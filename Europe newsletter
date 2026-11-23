@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Lakshmi Vacuum Technologies — Industrial Vacuum Furnaces</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+  <style>
+    /* RESET */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 100% !important; height: 100% !important; margin: 0 !important; padding: 0 !important; }
+    body { background-color: #f4f6f8; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-line-height-rule: exactly; }
+    table { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; }
+    a { text-decoration: none; }
+    .body-wrapper { width: 100%; background-color: #f4f6f8; padding: 20px 0; }
+
+    /* MOBILE STYLES */
+    @media screen and (max-width: 600px) {
+      body { overflow-x: hidden !important; }
+      .outer-wrapper { width: 100% !important; max-width: 100% !important; table-layout: fixed !important; }
+      .outer-cell { width: 100% !important; padding: 10px 0 !important; }
+      .container { width: 100% !important; max-width: 100% !important; table-layout: fixed !important; }
+      .px-mobile { padding-left: 20px !important; padding-right: 20px !important; }
+      .py-mobile { padding-top: 24px !important; padding-bottom: 24px !important; }
+      .hero-img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+      .logo-img { width: 100% !important; max-width: 130px !important; height: auto !important; }
+      .logo-footer { max-width: 90px !important; }
+      .stack { display: block !important; width: 100% !important; }
+      .stack-pad { padding-bottom: 16px !important; }
+      .h1-mobile { font-size: 26px !important; line-height: 32px !important; }
+      .h2-mobile { font-size: 20px !important; line-height: 26px !important; }
+      .contact-card { width: 100% !important; }
+      .hide-mobile { display: none !important; }
+      /* Ensure nested tables also shrink to fit */
+      .row-table { width: 100% !important; }
+
+      /* Stack product list & stat tiles to single column */
+      td.product-grid { display: block !important; width: 100% !important; box-sizing: border-box !important; padding: 10px 0 !important; }
+
+      /* Stat tiles need extra vertical breathing room when stacked */
+      td.stat-tile { padding: 18px 8px !important; }
+      td.stat-tile-divider { border-right: 0 !important; border-bottom: 1px solid #e1e6ec !important; }
+      td.stat-tile-last { border-bottom: 0 !important; }
+
+      /* CTA buttons: already stacked via table rows; ensure text stays centered */
+      .cta-btn-td { text-align: center !important; }
+      .cta-btn-link { text-align: center !important; }
+
+      /* Lighter header kicker on mobile */
+      .header-kicker { letter-spacing: 0.3px !important; }
+
+      /* Footer copyright contrast boost */
+      .footer-copy { color: #6b7a8c !important; }
+
+      /* Social pills stack on mobile */
+      .social-pill { display: inline-block !important; margin: 4px 4px !important; }
+    }
+  </style>
+</head>
+<body class="body-wrapper" style="background-color:#f4f6f8; margin:0; padding:20px 0;">
+
+  <!-- PREHEADER (hidden) -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#f4f6f8;">
+    Industrial vacuum furnaces since 2003 — 450+ installations across 9+ countries. Aerospace, automotive, medical implants, rare-earth magnets and more.
+  </div>
+
+  <!-- OUTER TABLE -->
+  <table role="presentation" class="outer-wrapper" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f4f6f8;">
+    <tr>
+      <td class="outer-cell" align="center" style="padding: 10px 12px;">
+
+        <!-- CONTAINER -->
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px; background-color:#ffffff; border:1px solid #e1e6ec; border-top:none;">
+
+          <!-- TOP ACCENT STRIP (industrial orange) -->
+          <tr>
+            <td style="background-color:#e8732a; padding:0; font-size:0; line-height:0; height:4px;">
+              <div style="height:4px; line-height:4px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- TOP UTILITY STRIP -->
+          <tr>
+            <td style="background-color:#0b1f3a; padding:8px 28px;" align="center">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="px-mobile header-kicker" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#c9d4e0; letter-spacing:1px;">
+                    VACUUM FURNACE MANUFACTURER &nbsp;·&nbsp; BENGALURU, INDIA
+                  </td>
+                  <td class="hide-mobile" align="right" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#c9d4e0; letter-spacing:1px;">
+                    EST. 2003 &nbsp;·&nbsp; 450+ FURNACES DELIVERED
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- HEADER / BRAND (white background) -->
+          <tr>
+            <td class="px-mobile py-mobile" style="padding:28px 40px 24px 40px; background-color:#ffffff;" align="center">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center">
+                    <!-- Logo on white background -->
+                    <img class="logo-img" src="https://cdn.jsdelivr.net/gh/lakshmivacuumgroup-code/newsletter@main/assets/logo.webp" alt="Lakshmi Vacuum Technologies" width="130" style="width:130px; max-width:100%; height:auto; display:block; margin:0 auto;">
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-top:12px; font-family:Arial, Helvetica, sans-serif;">
+                    <div style="font-size:11px; line-height:14px; color:#0b1f3a; letter-spacing:3px; font-weight:bold;">TECHNOLOGIES&nbsp;PVT.&nbsp;LTD.</div>
+                    <div style="font-size:11px; color:#e8732a; margin-top:6px; font-style:italic; font-weight:bold;">Revolutionizing Vacuum Treatment</div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- THIN ORANGE DIVIDER -->
+          <tr>
+            <td style="padding:0 40px;">
+              <div style="height:2px; line-height:2px; font-size:0; background-color:#e8732a;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- HERO IMAGE (no caption) -->
+          <tr>
+            <td style="font-size:0; line-height:0;">
+              <img class="hero-img" src="https://cdn.jsdelivr.net/gh/lakshmivacuumgroup-code/newsletter@main/assets/stripcasting.jpeg" alt="Lakshmi Vacuum Technologies — Vacuum strip casting and sintering furnace for NdFeB / SmCo rare-earth magnet production" width="600" style="width:600px; max-width:100%; height:auto; display:block;">
+            </td>
+          </tr>
+
+          <!-- INTRO / GREETING -->
+          <tr>
+            <td class="px-mobile py-mobile" style="padding:32px 40px 18px 40px; font-family:Arial, Helvetica, sans-serif;">
+              <div style="font-size:14px; line-height:22px; color:#5a6675;">
+                Dear Sir / Madam,
+              </div>
+              <div style="font-size:14px; line-height:22px; color:#5a6675; margin-top:14px;">
+                Allow us to introduce <strong style="color:#0b1f3a;">Lakshmi Vacuum Technologies Pvt. Ltd.</strong> — a manufacturer of industrial vacuum furnaces based in Bengaluru, India. Since 2003, we have designed and built vacuum furnaces for vacuum heat treatment across <strong style="color:#0b1f3a;">aerospace, automotive, medical implants, tools &amp; dies and rare-earth magnet production</strong>, with <strong style="color:#e8732a;">450+ furnaces delivered</strong> to customers in <strong style="color:#e8732a;">9+ countries</strong>.
+              </div>
+            </td>
+          </tr>
+
+          <!-- SECTION HEADING: PRODUCT LINES -->
+          <tr>
+            <td class="px-mobile" style="padding:20px 40px 6px 40px;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#e8732a; letter-spacing:3px; font-weight:bold;">OUR CAPABILITIES</div>
+              <div class="h2-mobile" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; color:#0b1f3a; font-weight:bold; margin-top:6px;">14 Product Lines — Selected Range Shown</div>
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:20px; color:#5a6675; margin-top:8px;">
+                Our vacuum furnace manufacturing range covers 14 product lines. Below is a selection of our core furnace families engineered for process-critical heat treatment applications.
+              </div>
+            </td>
+          </tr>
+
+          <!-- PRODUCT GRID -->
+          <tr>
+            <td class="px-mobile" style="padding:14px 40px 8px 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif;">
+                <!-- Row 1 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Brazing Furnaces</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Sintering Furnaces</div>
+                  </td>
+                </tr>
+                <!-- Row 2 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Hardening &amp; Annealing</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Degassing Furnaces</div>
+                  </td>
+                </tr>
+                <!-- Row 3 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Carburizing &amp; LP Nitriding</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Melting Furnaces</div>
+                  </td>
+                </tr>
+                <!-- Row 4 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Ovens &amp; Autoclaves</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Thermo-Vacuum Simulation (TVAC)</div>
+                  </td>
+                </tr>
+                <!-- Row 5 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Vacuum Hot Presses</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px; border-bottom:1px solid #eef1f4;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Strip Casting &amp; Sintering (NdFeB / SmCo)</div>
+                  </td>
+                </tr>
+                <!-- Row 6 -->
+                <tr>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 12px 10px 0;">
+                    <div style="font-size:13px; color:#0b1f3a; font-weight:bold;"><span style="color:#e8732a;">▸</span> Pack Aluminizing Furnaces</div>
+                  </td>
+                  <td class="product-grid" width="50%" valign="top" style="padding:10px 0 10px 12px;">
+                    <div style="font-size:11px; color:#7a8fa8; font-style:italic;">+ additional custom configurations</div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- APPLICATIONS BLOCK -->
+          <tr>
+            <td class="px-mobile py-mobile" style="padding:22px 40px; background-color:#f7f9fb; border-top:1px solid #e1e6ec; border-bottom:1px solid #e1e6ec;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#e8732a; letter-spacing:3px; font-weight:bold;">APPLICATIONS</div>
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:21px; color:#5a6675; margin-top:8px;">
+                Our furnaces support <strong style="color:#0b1f3a;">aerospace component heat treatment</strong>, <strong style="color:#0b1f3a;">automotive and EV part brazing</strong>, <strong style="color:#0b1f3a;">tool steel and stainless-steel hardening</strong>, sintering of powder-metal components, degassing of high-purity metals, <strong style="color:#0b1f3a;">NdFeB and SmCo permanent-magnet production</strong>, and thermal-vacuum testing for space hardware.
+              </div>
+            </td>
+          </tr>
+
+          <!-- STATS BAND (white bg, orange numbers) -->
+          <tr>
+            <td style="background-color:#ffffff; padding:0;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="product-grid stat-tile stat-tile-divider" width="33%" align="center" style="padding:22px 8px; border-right:1px solid #e1e6ec;">
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:30px; line-height:34px; color:#e8732a; font-weight:bold;">2003</div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#5a6675; letter-spacing:1px; margin-top:4px; font-weight:bold;">ESTABLISHED</div>
+                  </td>
+                  <td class="product-grid stat-tile stat-tile-divider" width="34%" align="center" style="padding:22px 8px; border-right:1px solid #e1e6ec;">
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:30px; line-height:34px; color:#e8732a; font-weight:bold;">450+</div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#5a6675; letter-spacing:1px; margin-top:4px; font-weight:bold;">FURNACES DELIVERED</div>
+                  </td>
+                  <td class="product-grid stat-tile stat-tile-last" width="33%" align="center" style="padding:22px 8px;">
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:30px; line-height:34px; color:#e8732a; font-weight:bold;">9+</div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#5a6675; letter-spacing:1px; margin-top:4px; font-weight:bold;">COUNTRIES SERVED</div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CTA SECTION -->
+          <tr>
+            <td class="px-mobile py-mobile" style="padding:28px 40px; background-color:#0b1f3a;" align="center">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:20px; line-height:26px; color:#ffffff; font-weight:bold;">
+                Need vacuum furnace capacity?
+              </div>
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:20px; color:#c9d4e0; margin-top:10px;">
+                If your operations require vacuum furnace capacity or a reliable alternative OEM, we would be glad to discuss your process requirements.
+              </div>
+
+              <!-- CTA BUTTONS -->
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
+                <!-- Button 1: EMAIL OUR TEAM (orange filled) -->
+                <tr>
+                  <td align="center" class="cta-btn-td" style="font-family:Arial, Helvetica, sans-serif; background-color:#e8732a; border-radius:4px; padding:14px 32px;">
+                    <a href="mailto:marketing@lakshmivacuum.com" class="cta-btn-link" style="font-size:14px; color:#ffffff; font-weight:bold; text-decoration:none; letter-spacing:1px; text-align:center;">EMAIL OUR TEAM</a>
+                  </td>
+                </tr>
+                <!-- Spacer row -->
+                <tr><td style="height:10px; line-height:10px; font-size:0;">&nbsp;</td></tr>
+                <!-- Button 2: VISIT WEBSITE (outlined orange) -->
+                <tr>
+                  <td align="center" class="cta-btn-td" style="font-family:Arial, Helvetica, sans-serif; background-color:#0b1f3a; border:2px solid #e8732a; border-radius:4px; padding:12px 32px;">
+                    <a href="https://www.lakshmivacuum.com" class="cta-btn-link" style="font-size:14px; color:#e8732a; font-weight:bold; text-decoration:none; letter-spacing:1px; text-align:center;">VISIT WEBSITE</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CONTACT CARD -->
+          <tr>
+            <td class="px-mobile" style="padding:24px 40px 28px 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f7f9fb; border-left:4px solid #e8732a;">
+                <tr>
+                  <td style="padding:22px;">
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#e8732a; letter-spacing:2px; font-weight:bold;">CONTACT</div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:17px; color:#0b1f3a; font-weight:bold; margin-top:6px;">MANJUNATH BC</div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5a6675; margin-top:2px;">Manager Marketing &middot; Head Office</div>
+
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:14px;">
+                      <tr>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5a6675; padding:3px 0;">
+                          <strong style="color:#0b1f3a;">Phone / WhatsApp:</strong>&nbsp;
+                          <a href="tel:+917022038671" style="color:#e8732a; text-decoration:none; font-weight:bold;">+91 70220 38671</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5a6675; padding:3px 0;">
+                          <strong style="color:#0b1f3a;">Email:</strong>&nbsp;
+                          <a href="mailto:marketing@lakshmivacuum.com" style="color:#e8732a; text-decoration:none; font-weight:bold;">marketing@lakshmivacuum.com</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5a6675; padding:3px 0;">
+                          <strong style="color:#0b1f3a;">Website:</strong>&nbsp;
+                          <a href="https://www.lakshmivacuum.com" style="color:#e8732a; text-decoration:none; font-weight:bold;">www.lakshmivacuum.com</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5a6675; padding:3px 0;">
+                          <strong style="color:#0b1f3a;">Head Office:</strong>&nbsp;Bengaluru, Karnataka, India
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- SOCIAL LINKS BAND -->
+          <tr>
+            <td class="px-mobile" style="padding:18px 40px; background-color:#ffffff; border-top:1px solid #e1e6ec;" align="center">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#5a6675; letter-spacing:2px; font-weight:bold; margin-bottom:12px;">FOLLOW OUR WORK</div>
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+                <tr>
+                  <!-- LinkedIn -->
+                  <td style="padding:0 6px;">
+                    <a href="https://www.linkedin.com/company/lakshmi-vacuum-group/" class="social-pill" style="display:inline-block; background-color:#0a66c2; color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; padding:9px 16px; border-radius:4px; text-decoration:none; letter-spacing:0.5px;">in &nbsp;LinkedIn</a>
+                  </td>
+                  <!-- YouTube -->
+                  <td style="padding:0 6px;">
+                    <a href="https://www.youtube.com/@LakshmiVacuumGroup" class="social-pill" style="display:inline-block; background-color:#ff0000; color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; padding:9px 16px; border-radius:4px; text-decoration:none; letter-spacing:0.5px;">▶ &nbsp;YouTube</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- TAGLINE FOOTER -->
+          <tr>
+            <td class="px-mobile py-mobile" style="padding:24px 40px; background-color:#ffffff; border-top:1px solid #e1e6ec;" align="center">
+              <img class="logo-img logo-footer" src="https://cdn.jsdelivr.net/gh/lakshmivacuumgroup-code/newsletter@main/assets/logo.webp" alt="Lakshmi Vacuum Technologies" width="90" style="width:90px; max-width:100%; height:auto; display:block; margin:0 auto 10px auto;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#e8732a; font-style:italic; letter-spacing:1px; font-weight:bold;">
+                "Revolutionizing Vacuum Treatment"
+              </div>
+            </td>
+          </tr>
+
+          <!-- FINE PRINT FOOTER -->
+          <tr>
+            <td class="px-mobile" style="padding:18px 40px; background-color:#ffffff;" align="center">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:17px; color:#7a8a9c;">
+                You are receiving this email as part of our industrial vacuum furnace outreach.<br>
+                <a href="https://www.lakshmivacuum.com/subscribe.html" style="color:#e8732a; text-decoration:none; font-weight:bold;">Unsubscribe</a>
+                &nbsp;·&nbsp;
+                <a href="https://www.lakshmivacuum.com/subscribe.html" style="color:#e8732a; text-decoration:none; font-weight:bold;">Manage subscription preferences</a>
+              </div>
+              <div class="footer-copy" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#7a8a9c; margin-top:10px;">
+                &copy; 2026 Lakshmi Vacuum Technologies Pvt. Ltd. &middot; All rights reserved.
+              </div>
+            </td>
+          </tr>
+
+        </table>
+        <!-- /CONTAINER -->
+
+        <!-- DESKTOP SPACER NOTE -->
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px;">
+          <tr>
+            <td align="center" style="padding:14px 12px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#8a99ac;">
+              Lakshmi Vacuum Technologies Pvt. Ltd. &nbsp;|&nbsp; Bengaluru, India &nbsp;|&nbsp; marketing@lakshmivacuum.com
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+  <!-- /OUTER TABLE -->
+
+</body>
+</html>
