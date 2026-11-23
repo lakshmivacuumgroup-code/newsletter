@@ -96,7 +96,7 @@
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                 <tr>
                   <td class="px-mobile header-kicker" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#c9d4e0; letter-spacing:1px;">
-                    VACUUM FURNACE MANUFACTURER &nbsp;·&nbsp; BENGALURU, INDIA
+                    VACUUM FURNACE OEM &nbsp;·&nbsp; BENGALURU, INDIA
                   </td>
                   <td class="hide-mobile" align="right" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#c9d4e0; letter-spacing:1px;">
                     EST. 2003 &nbsp;·&nbsp; 450+ FURNACES DELIVERED
@@ -117,9 +117,9 @@
                   </td>
                 </tr>
                 <tr>
-                  <td align="center" style="padding-top:12px; font-family:Arial, Helvetica, sans-serif;">
-                    <div style="font-size:11px; line-height:14px; color:#0b1f3a; letter-spacing:3px; font-weight:bold;">TECHNOLOGIES&nbsp;PVT.&nbsp;LTD.</div>
-                    <div style="font-size:11px; color:#e8732a; margin-top:6px; font-style:italic; font-weight:bold;">Revolutionizing Vacuum Treatment</div>
+                  <td align="center" style="padding-top:14px; font-family:Arial, Helvetica, sans-serif;">
+                    <div style="font-size:14px; line-height:18px; color:#0b1f3a; letter-spacing:0.5px; font-weight:bold;">Lakshmi Vacuum Technologies Pvt. Ltd.</div>
+                    <div style="font-size:11px; color:#e8732a; margin-top:5px; font-style:italic; font-weight:bold; letter-spacing:0.5px;">Revolutionizing Vacuum Treatment</div>
                   </td>
                 </tr>
               </table>
@@ -140,14 +140,22 @@
             </td>
           </tr>
 
+          <!-- HERO HEADING -->
+          <tr>
+            <td class="px-mobile" style="padding:32px 40px 6px 40px; font-family:Arial, Helvetica, sans-serif;">
+              <div style="font-size:11px; color:#e8732a; letter-spacing:3px; font-weight:bold;">INTRODUCING</div>
+              <div class="h2-mobile" style="font-size:22px; line-height:28px; color:#0b1f3a; font-weight:bold; margin-top:6px;">Industrial Vacuum Furnaces for Process-Critical Heat Treatment</div>
+            </td>
+          </tr>
+
           <!-- INTRO / GREETING -->
           <tr>
-            <td class="px-mobile py-mobile" style="padding:32px 40px 18px 40px; font-family:Arial, Helvetica, sans-serif;">
+            <td class="px-mobile" style="padding:14px 40px 18px 40px; font-family:Arial, Helvetica, sans-serif;">
               <div style="font-size:14px; line-height:22px; color:#5a6675;">
                 Dear Sir / Madam,
               </div>
               <div style="font-size:14px; line-height:22px; color:#5a6675; margin-top:14px;">
-                Allow us to introduce <strong style="color:#0b1f3a;">Lakshmi Vacuum Technologies Pvt. Ltd.</strong> — a manufacturer of industrial vacuum furnaces based in Bengaluru, India. Since 2003, we have designed and built vacuum furnaces for vacuum heat treatment across <strong style="color:#0b1f3a;">aerospace, automotive, medical implants, tools &amp; dies and rare-earth magnet production</strong>, with <strong style="color:#e8732a;">450+ furnaces delivered</strong> to customers in <strong style="color:#e8732a;">9+ countries</strong>.
+                Allow us to introduce <strong style="color:#0b1f3a;">Lakshmi Vacuum Technologies Pvt. Ltd.</strong> — a manufacturer of industrial vacuum furnaces based in Bengaluru, India. Since 2003, we have designed and built vacuum furnaces for vacuum heat treatment across <strong style="color:#0b1f3a;">aerospace, automotive, medical implants, tools &amp; dies, and rare-earth magnet production</strong>, with <strong style="color:#e8732a;">450+ furnaces delivered</strong> to customers in <strong style="color:#e8732a;">9+ countries</strong>.
               </div>
             </td>
           </tr>
